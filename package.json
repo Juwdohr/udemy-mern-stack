@@ -1,0 +1,11 @@
+{
+  "name": "udemy-mern-application",
+  "version": "0.0.1",
+  "description": "Tutorial on Udemy for a fullstack MERN application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua A. Dix <jadix117@gmail.com>",
+  "license": "MIT"
+}
