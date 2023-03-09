@@ -53,7 +53,6 @@ function App() {
                     <Route path="/user/cart-details" element={<UserCartDetailsPage />} />
                     <Route path="/user/my-orders" element={<UserOrdersPage />} />
                     <Route path="/user/order-details" element={<UserOrderDetailsPage />} />
-                    <Route path="/user/profile" element={<UserProfilePage />} />
                 </Route>
 
 
