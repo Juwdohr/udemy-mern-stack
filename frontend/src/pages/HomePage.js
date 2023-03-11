@@ -1,6 +1,6 @@
 import ProductCarouselComponent from '../components/ProductCarouselComponent';
 import CategoryCardComponent from '../components/CategoryCardComponent';
-import { Row, Col, Container } from 'react-bootstrap';
+import { Row, Container } from 'react-bootstrap';
 
 const HomePage = () => {
     const categories = [
