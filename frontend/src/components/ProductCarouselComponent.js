@@ -11,7 +11,7 @@ const ProductCarouselComponent = () => {
             <Carousel.Item>
                 <img
                     className="d-block w-100"
-                    crossorigin='anonymous'
+                    crossOrigin='anonymous'
                     style={{ height: "300px", objectFit: "cover" }}
                     src="/images/carousel/carousel-1.png"
                     alt="First slide"
