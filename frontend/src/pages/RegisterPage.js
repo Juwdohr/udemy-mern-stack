@@ -91,7 +91,7 @@ const RegisterPage = () => {
                         <Row className="pb-2">
                             <Col>
                                 Do you have an account already?
-                                <Link to="Login"> Login </Link>
+                                <Link to="/login"> Login </Link>
                             </Col>
                         </Row>
                         <Button type="submit">
