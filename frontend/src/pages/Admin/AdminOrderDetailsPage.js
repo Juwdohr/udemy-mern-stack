@@ -55,7 +55,6 @@ const AdminOrderDetailsPage = () => {
                     <ListGroup>
                         <ListGroup.Item>
                             <h3>Order Summary</h3>
-
                         </ListGroup.Item>
                         <ListGroup.Item>
                             Items price (after tax): <span className="fw-bold">$892</span>

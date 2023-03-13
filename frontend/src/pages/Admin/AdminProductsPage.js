@@ -46,7 +46,7 @@ const AdminProductsPage = () => {
                                 <td>{product.price}</td>
                                 <td>{product.category}</td>
                                 <td>
-                                    <LinkContainer to="admin/edit-product">
+                                    <LinkContainer to="/admin/edit-product">
                                         <Button className="btn-sm">
                                             <i className="bi bi-pencil-square"></i>
                                         </Button>
